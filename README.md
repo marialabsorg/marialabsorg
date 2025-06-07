@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">MariaLabs ORG. 👋</h1>
 <p align="center">Building modern experiences with creativity & code.</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧠 Currently working on: [Your Project Name or Stack]
-- 💡 Passionate about: Modern web, headless CMS, UI/UX design
-- 🛠️ Tech I use: React, Next.js, Sanity, Tailwind, TypeScript, Node.js
+- 🧠 Currently working on: metroState
+- 💡 Passionate about: Custom Engine Game Development with c++ 
+- 🛠️ Tech used: React, Next.js, Socket.IO, Tailwind, TypeScript, Node.js
 - 🌱 Learning more about: AI integrations & 3D web (Three.js)
-- ✍️ I write about web dev at: [Your Blog or Medium link]
+- ✍️ Visit : marialabs.org
 
 ---
 
