@@ -5,67 +5,77 @@
   <strong>MariaLabs</strong>
 </h1>
 <p align="center">
-  Independent game studio crafting immersive simulation and narrative-driven experiences.
+  🎮 Independent game studio crafting simulation-heavy, story-rich experiences.
 </p>
 
 ---
 
-## 🎮 About Us
+### 🚧 Current Project: <strong>metroState</strong>
 
-MariaLabs is a game development studio focused on building **deep systems**, **emergent gameplay**, and **interactive storytelling**.
+`metroState` is a systems-driven, narrative-rich, city simulation game currently in development.
 
-We combine cutting-edge technology with thoughtful design to create worlds that feel alive and respond to player agency. Our team is composed of engineers, artists, writers, and designers who are passionate about pushing the boundaries of simulation and player choice.
+🧠 **metroState** explores player agency, emergent urban behavior, and political strategy in a living city.
 
----
+- 🏙️ Procedural citizens with intent and memory
+- 🗳️ Dynamic politics and reputation systems
+- 🧩 Deep simulation loops with cause-and-effect gameplay
+- ⚙️ Built with Unreal Engine 5 (C++ + Blueprints)
 
-## 🚧 Current Project: <strong>metroState</strong>
-
-`metroState` is an ambitious urban simulation game where every citizen has intent, every system is interconnected, and every choice carries consequence.
-
-**Core Pillars**:
-- 🏙️ **Simulated World**: Dynamic urban life with autonomous citizens and procedural systems.
-- 🧠 **Narrative Depth**: Emergent storylines shaped by politics, culture, and player decisions.
-- 🧩 **Systems Design**: Advanced AI, modular economy, and city-scale interactivity.
-- 🌐 **Tech Stack**: Built in Unreal Engine 5 with C++, Blueprints, and real-time backend services.
-
-> “metroState is not just a city — it’s a living organism. You’re not just playing the game — you’re part of its fabric.”
+> “Not just a sandbox. A society.”
 
 ---
 
-## 🛠 Technologies We Use
+### 🛠 Tech Stack & Tools
 
-| Domain             | Tools & Languages |
-|-------------------|-------------------|
-| Game Engine        | Unreal Engine 5, Blueprints, C++ |
-| Backend Systems    | Socket.IO, Node.js, Custom APIs |
-| Version Control    | GitHub, Perforce (internal) |
-| Worldbuilding      | Notion, Figma, Substance, Blender |
-| Collaboration      | Jira, Discord, Linear |
-
----
-
-## 🧑‍💼 Work With Us
-
-We're always open to:
-- Industry collaborators & advisors
-- Publishing partners
-- Talented developers & technical artists
-
-If you're passionate about simulation, game AI, or systems storytelling, feel free to reach out or follow our work.
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white)
+![Blueprints](https://img.shields.io/badge/-Blueprints-00599C?logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Perforce](https://img.shields.io/badge/-Perforce-404040?logo=perforce&logoColor=white)
 
 ---
 
-## 📬 Contact & Links
+### 📚 What We Do
 
-- 🌐 [Website](https://maria.labs) <!-- update this when live -->
-- 🐦 [Twitter](https://twitter.com/MariaLabsGame)
-- 💬 [Discord Community](https://discord.gg/yourinvite)
-- 🛠 [Developer Blog](https://dev.maria.labs)
-- 📫 contact [at] maria [dot] labs
+- 🎮 Original IP and simulation game development
+- 🧠 Narrative & systemic design
+- 🌐 Real-time multiplayer architecture
+- 🛠 Custom in-house tools for game pipelines
+- 🤝 Collaboration with modders & technical artists
+
+---
+
+### 📊 Studio Stats (Live Soon)
+
+> GitHub metrics like contributor activity, open tools, SDKs, and community support will appear here as we scale development.
+
+---
+
+### 📣 Follow Our Journey
+
+[![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=vercel&logoColor=white)](https://maria.labs)
+[![Twitter](https://img.shields.io/badge/-@MariaLabsGame-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MariaLabsGame)
+[![Discord](https://img.shields.io/badge/-Join%20us%20on%20Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/yourlink)
+[![Developer Blog](https://img.shields.io/badge/-Dev%20Blog-000000?logo=hashnode&logoColor=white)](https://dev.maria.labs)
+[![Careers](https://img.shields.io/badge/-We're%20Hiring-FBBD08?logo=briefcase&logoColor=black)](https://maria.labs/careers)
+
+---
+
+### 🧩 Open Source & Community
+
+We plan to share:
+- 📦 Utilities, SDKs, and scripting tools
+- 🎨 Design kits for UI and worldbuilding
+- 🔧 Code examples and modding APIs
+- 📘 Dev logs and technical breakdowns
+
+Follow this organization to stay updated!
 
 ---
 
 <p align="center">
-  <em>MariaLabs is committed to building inclusive, meaningful, and boundary-pushing interactive experiences.</em><br/>
-  <strong>metroState</strong> © MariaLabs, 2025
+  <em>MariaLabs © 2025 – Designing experiences where systems meet stories.</em>
 </p>
