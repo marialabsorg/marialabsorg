@@ -57,7 +57,7 @@
 ### 📣 Follow Our Journey
 
 [![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=vercel&logoColor=white)](https://marialabs.org)
-[![Twitter](https://img.shields.io/badge/-@MariaLabsGame-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/marialabshq)
+[![Twitter](https://img.shields.io/badge/-@MariaLabsORG-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/marialabshq)
 [![Discord](https://img.shields.io/badge/-Join%20us%20on%20Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/metro-state)
 [![Developer Blog](https://img.shields.io/badge/-Dev%20Blog-000000?logo=hashnode&logoColor=white)](https://marialabs.org/blog)
 [![Careers](https://img.shields.io/badge/-We're%20Hiring-FBBD08?logo=briefcase&logoColor=black)](https://marialabs.org/careers)
