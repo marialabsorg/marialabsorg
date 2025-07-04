@@ -9,6 +9,21 @@
 </p>
 
 ---
+### ✅ Completed Project: <strong>URUS</strong>
+
+`URUS` is a scalable, multivendor e-commerce platform built to support dynamic vendor operations and high-traffic consumer activity.
+
+🧠 **URUS** focused on seller onboarding, efficient order handling, and a modular system architecture.
+
+- 🛍️ Vendor storefront system with real-time product and stock syncing
+- 💳 Integrated payments, checkout flows, and invoice generation
+- 🛠️ Role-based admin tools for vendors, logistics, and support
+- ⚙️ Built with Next.js, Tailwind CSS, Node.js, and MongoDB
+
+> “Not just a store. An ecosystem.”
+
+
+
 
 ### 🚧 Current Project: <strong>metroState</strong>
 
