@@ -53,13 +53,19 @@
 
 ### 📚 What We Do
 
-- 🎮 Original IP and simulation game development
-- 🧠 Narrative & systemic design
-- 🌐 Real-time multiplayer architecture
-- 🛠 Custom in-house tools for game pipelines
-- 🤝 Collaboration with modders & technical artists
+#### 🎮 **metroState** – Systems-Driven Simulation Game  
+- 🏙️ Living city simulation with procedural citizens and intent-based AI  
+- 🧠 Deep narrative integration through dynamic reputation and politics  
+- 🌐 Real-time multiplayer with region/server architecture  
+- 🛠️ Custom tools for server moderation, character data, and world
 
----
+
+#### 🛒 **URUS** – Multivendor E-commerce Platform  
+- 🏪 Scalable vendor onboarding and storefront management  
+- 📦 Real-time inventory, order, and logistics systems  
+- 💳 Integrated payments, invoices, and admin tools  
+- ⚙️ Modular architecture with Next.js, Tailwind, and Node.js  
+- 🔐 Secure, role-based access and live analytics  
 
 ### 📊 Studio Stats (Live Soon)
 
