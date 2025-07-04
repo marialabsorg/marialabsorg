@@ -27,14 +27,11 @@
 
 ### 🛠 Tech Stack & Tools
 
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white)
-![Blueprints](https://img.shields.io/badge/-Blueprints-00599C?logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![Perforce](https://img.shields.io/badge/-Perforce-404040?logo=perforce&logoColor=white)
+
 
 ---
 
