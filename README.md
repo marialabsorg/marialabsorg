@@ -1,7 +1,7 @@
 <!-- .github/README.md -->
 
 <h1 align="center">
-  <img src="https://your-cdn.com/logo.svg" alt="MariaLabs" height="80" /><br/>
+  <img src="https://i.postimg.cc/kMfCnMty/maria-2.png" alt="MariaLabs" height="80" /><br/>
   <strong>MariaLabs</strong>
 </h1>
 <p align="center">
