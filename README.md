@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🎮 Independent Backend & Game Studio designing simulation-rich systems, backend infrastructure, and narrative-driven digital experiences.
+  🎮 Independent Web Backend Engineering & Game Studio designing simulation-rich systems, backend infrastructure, and narrative-driven digital experiences.
 </p>
 
 ---
