@@ -5,7 +5,7 @@
   <strong>MariaLabs</strong>
 </h1>
 <p align="center">
-  🎮 Independent game studio crafting simulation-heavy, story-rich experiences.
+  🎮 Independent Backend and Game studio crafting Backends and Simulation Mobile Games.
 </p>
 
 ---
@@ -16,10 +16,10 @@
 
 🧠 **metroState** explores player agency, emergent urban behavior, and political strategy in a living city.
 
-- 🏙️ Procedural citizens with intent and memory
+- 🏙️ Procedural citizens system with intent and memory
 - 🗳️ Dynamic politics and reputation systems
 - 🧩 Deep simulation loops with cause-and-effect gameplay
-- ⚙️ Built with Unreal Engine 5 (C++ + Blueprints)
+- ⚙️ Building with Unity Engine  (C#)
 
 > “Not just a sandbox. A society.”
 
